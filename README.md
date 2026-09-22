@@ -1,7 +1,7 @@
 # frameless
 
 <p align="center">
-  <img src="logo/main.png" width="120" alt="frameless">
+  <img src="frameless.png" width="120" alt="frameless">
 </p>
 
 **frameless** — быстрый, тёмный, минималистичный веб-браузер для Windows, созданный на базе Electron (Chromium).
