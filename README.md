@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo/7.png" width="96" alt="frameless">
+<img src="frameless.png" width="96" alt="frameless">
 
 # frameless
 
